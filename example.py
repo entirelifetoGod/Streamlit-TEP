@@ -1,3 +1,3 @@
-import pandas as pd
+import streamlit as st
 
-print('hi')
+st.text('hello Streamlit!')
